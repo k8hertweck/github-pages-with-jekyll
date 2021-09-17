@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Testing out the GitHub Pages course on GitHub Learning Lab"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Content goes here
